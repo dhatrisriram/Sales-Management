@@ -28,7 +28,7 @@ public class DBConnection {
     /** JDBC URL pointing to the local H2 database file. */
     private static final String URL = "jdbc:mysql://localhost:3306/polymorphs";
     private static final String USER = "root";
-    private static final String PASSWORD = "Dhatri2005@$"; // your actual MySQL root password
+    private static final String PASSWORD = "Bhumi@Mysql123"; // your actual MySQL root password
 
     // -------------------------------------------------------------------------
     // Constructor — private to prevent instantiation (utility class)
